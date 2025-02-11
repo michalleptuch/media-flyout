@@ -1,4 +1,4 @@
-# Mixe
+# Media Flyout
 
 Welcome to the official issue-only repo for Mixe. Mixe has been built with the Windows App SDK and .NET 7. The app allows you to contol active media sessions in Windows 10 and Windows 11 (media sessions from apps like Edge, Chrome, Spotify and so on).
 
